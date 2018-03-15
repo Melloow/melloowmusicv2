@@ -1,6 +1,6 @@
 {
-	"yt_api_key": "",
-	"discord_token": "",
-	"bot_controller": "", 
+	"yt_api_key": "yt_api_key",
+	"discord_token": "discord_token",
+	"bot_controller": "bot_controller", 
 	"prefix": "!!"
 }
