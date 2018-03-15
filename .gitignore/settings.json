@@ -2,5 +2,5 @@
 	"yt_api_key": "config.yt_api_key",
 	"discord_token": "config.discord_token",
 	"bot_controller": "config.bot_controller", 
-	"prefix": "config.prefix"
+	"prefix": "config.prefix",
 }
